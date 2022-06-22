@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200&display=swap');
+* {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.brand-logo {
+width: 150px;
+height: 100px;
+object-fit: contain;
+}
+
+.logo-section {
+    background-color:lime;
+}
+
+
+
